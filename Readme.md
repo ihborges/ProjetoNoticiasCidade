@@ -1,4 +1,4 @@
-## Projeto com HTML5 e CSS3
+## Projeto Notícias Cidade
 
 Site de Notícias Fictício
 
